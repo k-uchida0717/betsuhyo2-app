@@ -1,0 +1,18 @@
+{
+  "name": "別表Ⅱ 摘要欄 記載事項 検索",
+  "short_name": "別表Ⅱ検索",
+  "description": "令和8年度診療報酬改定関連通知 別表Ⅱ（薬価基準）摘要欄記載事項の検索ビューア",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f5f9",
+  "theme_color": "#b0122a",
+  "lang": "ja",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
